@@ -5,6 +5,7 @@ The Lending Club provides peer-to-peer loans, allowing individual lenders to inv
 0: Raw data files
 LoanStats3a.csv.zip, LoanStats3b.csv.zip, LoanStats3c.csv.zip, and LoanStats3d.csv.zip
 These are the raw csv data tables provided by the Lending Club. These files contain all funded loans from 2007 until the end of 2015.
+The Lending Club data can be found at https://www.lendingclub.com/info/download-data.action
 
 1: Data cleaning and processing
 data_cleaning_processing.ipynb, utils.py, anon_avg_irs_data.pkl
